@@ -10,4 +10,4 @@ biological components, not by merely investigating the components individually, 
 ### Teachers
 * [prof.dr. Natal A.W. van Riel](mailto:n.a.w.v.riel@tue.nl) (_Responsible lecturer_)
 * [dr. Shauna D. O'Donovan](mailto:s.d.odonovan@tue.nl)
-* [M. de Rooij, MSc](mailto:m.d.rooij@tue.nl)
+* [Max de Rooij, MSc](mailto:m.d.rooij@tue.nl)
